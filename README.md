@@ -14,7 +14,7 @@
 - Refactor the code for next test - `Blue`
 - This continues until all the tests have successfully passed
 
-[10:48] Abdul Haseeb Shahrukh Khan
+
 |Method |   Checks that|   New in |
 |:---|:---|:---|
 |assertEqual(a, b)        | a == b              ||
